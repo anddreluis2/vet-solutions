@@ -24,7 +24,7 @@ export default function Header() {
           width={200}
           height={80}
           src={VetSolutions}
-          alt="logo"
+          alt="Vet Solutions"
         />
       </div>
       <div className="flex text-white gap-8 text-xs justify-center w-[1050px] items-center">
