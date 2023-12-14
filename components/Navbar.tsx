@@ -34,7 +34,7 @@ export default function Header() {
           </Link>
         ))}
         <Button className="bg-purple text-mint font-semibold hover:underline rounded-full hover:bg-purple/75">
-          Entre em contato
+          Entre em contato sim
         </Button>
       </div>
     </header>
